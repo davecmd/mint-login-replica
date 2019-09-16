@@ -30,6 +30,10 @@ button {
     
 }
 
+.creator-text {
+    display: inline;
+}
+
 .header-grid {
     display: grid;
     float: right;
